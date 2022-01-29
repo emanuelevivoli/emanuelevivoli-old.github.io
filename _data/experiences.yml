@@ -1,0 +1,58 @@
+- title: Reseaerch Fellow @ UniFi
+  location: Florence, Italy
+  from: Aug. 2021
+  to: present
+  description: 
+    - Research on scientific Paper similarity enhanced by Table Information Extraction using GNNs and NLP models
+    - Supported for large datasets (PubTables-1M (1M), DocBank (500K), TableBank (417K))
+    - Helped BSc and MSc students with their thesis
+
+- title: Full-stack Developer Engineer @ Health and Medical Service Company 
+  location: Florence, Italy
+  from: Feb. 2020
+  to: Sep. 2020
+  description: 
+    - Created web/mobile application for doctor appointments and receipts
+    - Supported 80 doctors, 1500 patients each with low latency and real-time updates
+  tags:
+    - Angular2+
+    - rxjs
+    - ngxs/ngrx
+    - Firestore
+    - Cloud Functions
+    - Hosting
+    - Authentication
+    - Security Rules
+
+- title: Machine Learning Intern @ Lule ̊a Tekniska Universitet 
+  location: Luleå, Sweeden
+  from: Jun. 2019
+  to: Aug. 2019
+  description: 
+    - Found and fixed a bug in a paper code about EEG Analysis for intent classification
+    - Gave workshops on “git and vscode for remote programming” and “web services with Angular2+”
+
+- title: Tutor (TA) @ UniFi
+  location: Florence, Italy
+  from: Jan. 2019
+  to: Feb. 2019
+  description: 
+    - Tutor experience working with 20+ High school students and 3 other tutors
+    - Designed 2 weeks of frontal and interactive lessons on python, jupyter notebooks, opencv and decision tree
+
+- title: Back End Developer Intern @ Regional Council 
+  location: Florence, Italy
+  from: Oct. 2013
+  to: May. 2015
+  description: 
+    - Developed web/mobile application for an interactive museum
+    - Collaborating with 3 team members using git and Github
+  tags:
+    - Git
+    - Docker
+    - MySQL
+    - Python
+    - Ionic
+    - HTML
+    - CSS
+               

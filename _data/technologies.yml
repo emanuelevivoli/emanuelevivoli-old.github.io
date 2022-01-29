@@ -1,0 +1,31 @@
+- name: Pytorch
+  percentage: 85
+  color: info
+
+- name: Sklearn
+  percentage: 80
+  color: success
+
+- name: Pandas
+  percentage: 80
+  color: success
+
+- name: Numpy
+  percentage: 80
+  color: success
+
+- name: git
+  percentage: 90
+  color: success
+
+- name: Linux
+  percentage: 70
+  color: success
+
+- name: Docker
+  percentage: 70
+  color: success
+
+- name: Angular
+  percentage: 85
+  color: success
