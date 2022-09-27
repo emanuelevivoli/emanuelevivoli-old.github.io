@@ -1,11 +1,39 @@
-- title: Reseaerch Fellow @ UniFi
+- title: Research Fellow @ UniFi
+  location: Florence, Italy
+  from: Jul. 2022
+  to: present
+  description: 
+    - Research on Intelligent Robot for land-mines discovery with Holographic Radar
+    - Creation of Holographic dataset and 3D ground and mines images
+    - work in progress ...
+
+- title: Intern @ CVC
+  location: Barcelona, Spain
+  from: March. 2022
+  to: Jul. 2022
+  description: 
+    - Research on Visual Question Answer, defining the task of Multilingual Scene-text VQA
+    - Using the framework MMF, implementing and training Transformer models (M4C, M4C-variations, T5, mT5, byT5)
+    - Published a paper @ ECCV -> [MUST-VQA MUltilingual Scene-text VQA](https://arxiv.org/abs/2209.06730)
+  tags:
+    - paper published
+    - VQA
+    - ST-VQA
+    - MUST-VQA
+
+- title: Research Fellow @ UniFi
   location: Florence, Italy
   from: Aug. 2021
-  to: present
+  to: Feb. 2021
   description: 
     - Research on scientific Paper similarity enhanced by Table Information Extraction using GNNs and NLP models
     - Supported for large datasets (PubTables-1M (1M), DocBank (500K), TableBank (417K))
-    - Helped BSc and MSc students with their thesis
+    - Published a paper @ ICPR -> [Graph Neural Networks and Representation Embedding for Table Extraction in PDF Documents](https://arxiv.org/abs/2208.11203)
+  tags:
+    - paper published
+    - GNNs
+    - Representation embeddings
+    - NLP
 
 - title: Full-stack Developer Engineer @ Health and Medical Service Company 
   location: Florence, Italy

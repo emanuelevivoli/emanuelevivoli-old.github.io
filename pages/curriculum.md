@@ -11,6 +11,10 @@ permalink: /experiences/
 {% include about/experiences.html source=site.data.experiences %}
 </div>
 
+&nbsp;
+
+&nbsp;
+
 # Education
 
 <div class="row">
