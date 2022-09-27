@@ -16,4 +16,4 @@ So, after having arranged all the GitHub repos (at the best of my possibility), 
 
 Next posts will be about all the things I love doing.
 
-By folks, take care 🥬
+Bye folks, take care 🥬
