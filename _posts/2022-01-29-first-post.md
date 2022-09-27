@@ -1,6 +1,6 @@
 ---
 title: First Post
-tags: [in-english, first-post]
+tags: [English, general]
 style: fill
 color: warning
 description: Talking about nothing.
