@@ -1,9 +1,10 @@
 ### Site Settings ###
 title               : Emanuele Vivoli
 description         : >
-                      Passionated about Computer Science 💻 , Deep learning ⚡ and Nature 🌱.
-                      :telescope: looking for Machine Learning Engineering works (or even a PhD)!
-                      :books: Learning something new every day
+                      PhD student @ MICC (UniFI) on Multimodal Learning.
+                      Passionated about ⚡ Deep learning 💻 doing stuff and 🌱 Nature
+                      :telescope: looking for Ideas!
+                      :books: Learning something new every day !
 # baseurl             : "/emanuelevivoli.github.io"                 # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 # repository          : emanuelevivoli/emanuelevivoli.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : emanuelevivoli/emanuelevivoli.github.io
